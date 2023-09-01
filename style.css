@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header h1 {
+  text-align: center;
+}
+
+.featured-propertyimg img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.featured-propertyimg figcaption {
+  text-align: center;
+}
+
+.externallinkstop a {
+  padding-left: 91px;
+  padding-right: 91px;
+  background-color: yellowgreen;
+}
+
+.paragraph p {
+  font-size: small;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+details contact {
+  float: left;
+  text-align: center;
+}
+
+details correspondence {
+  float: left;
+  text-align: center;
+}
+
+details externallinks {
+  float: left;
+  text-align: center;
+}
+
+details socailmedialinks {
+  float: left;
+  text-align: center;
+}
